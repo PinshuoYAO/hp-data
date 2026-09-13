@@ -1,0 +1,10 @@
+{
+ "v": 1,
+ "kdf": "PBKDF2-SHA256",
+ "iter": 600000,
+ "salt": "zD0YQDTjdt8Ylm02pkCMig==",
+ "iv": "XZP5kXyKiqkgRzaO",
+ "ct": "pPOrQmJzc6hpw8W2zk4zSKtrUP8lYNUBqmsj/yviiAe96P3lzq+7Ta7Gu+rQh+0lp7f4MCCYGjNYvRhfI5/Gv4qW66noUDfNbbRz98wLCvvLvZL6/QINg6T37aUQ2y8mXd5pXevglWbglUq1kg==",
+ "repo": "PinshuoYAO/hp-data",
+ "path": "bookmarks.json"
+}
